@@ -1,4 +1,10 @@
 # WeatherAnalaysis
 Historical weather analysis of Rotterdam
 
-Check out some of the working directory codes, you may need to change them to your directory of the repository.
+Basic analysis on how to work with Json files. 
+
+- import json
+- parse it
+- convert to pandas dataframe
+- convert some columns to datetime
+- plot some basic graphs
