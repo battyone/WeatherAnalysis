@@ -1,10 +1,8 @@
 # WeatherAnalaysis
 Historical weather analysis of Rotterdam
 
-Basic analysis on how to work with Json files. 
+Found some data of the weather of rotterdam, and decided to do to some `exploratory data analysis`
 
-- import json
-- parse it
-- convert to pandas dataframe
-- convert certain columns to datetime format
-- plot basic graphs
+Made some visuals and did some data wrangling.
+
+If you feel like something missing feel free to add. 
